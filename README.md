@@ -56,15 +56,7 @@
 🧑‍💼 **ManagifyHR** – HRM System with Mobile App
 🎵 **Music Katta** – Music Streaming Backend with JWT Auth
 
----
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shubham-jagtap07/shubham-jagtap07/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## ⚡ Profile Views
 
